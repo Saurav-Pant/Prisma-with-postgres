@@ -1,1 +1,1 @@
-"# Prisma-with-postgres" 
+# Prisma-with-postgres
